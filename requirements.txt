@@ -1,0 +1,5 @@
+
+mysql-connector-python==8.0.29
+psycopg2==2.9.3
+requests==2.26.0
+pycryptodome==3.11.0

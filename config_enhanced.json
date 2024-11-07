@@ -1,0 +1,32 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "password",
+        "database": "testdb"
+    },
+    "postgresql": {
+        "host": "localhost",
+        "user": "postgres",
+        "password": "password",
+        "database": "testdb"
+    },
+    "sql_server": {
+        "host": "localhost",
+        "user": "sa",
+        "password": "password",
+        "database": "testdb"
+    },
+    "s3": {
+        "access_key": "your_access_key_here",
+        "secret_key": "your_secret_key_here",
+        "bucket_name": "your_bucket_name_here",
+        "region": "us-west-1"
+    },
+    "redshift": {
+        "host": "redshift-cluster-1.abc123xyz789.us-west-1.redshift.amazonaws.com",
+        "user": "awsuser",
+        "password": "password",
+        "database": "dev"
+    }
+}
